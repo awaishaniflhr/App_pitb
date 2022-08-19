@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ticket_n_01">Ticket N° 01</string>
+    <string name="_9_articles">9 Articles</string>
+    <string name="select_a_product">Select a product</string>
+    <string name="_1_2_piece_of_bread">1/2 piece of bread</string>
+    <string name="little_bread">Little bread</string>
+    <string name="_1_50_dh">1.50 Dh</string>
+    <string name="print_the_list">Print the list</string>
+    <string name="new_product">New product</string>
+    <string name="add_a_product">Add a product</string>
+    <string name="add_to_ticket">Add to ticket</string>
+    <string name="add_product">Add product</string>
+    <string name="delta_dark">Delta dark</string>
+    <string name="delta_dark_excelo_49g_open">Delta dark - Excelo - 49g - Open..</string>
+</resources>

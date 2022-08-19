@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/drawable/btn_radius.xml" value="0.198" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/drawable/btn_radius_blue.xml" value="0.198" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/layout/activity_main.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/layout/finalize_the_ticket.xml" value="0.33" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/layout/fragment_adda_product.xml" value="0.33" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/layout/fragment_adda_product_selected.xml" value="0.33" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/layout/product_list_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/layout/ticket_no.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/92301/AndroidStudioProjects/App/app/src/main/res/xml/ids.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
